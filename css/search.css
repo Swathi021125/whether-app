@@ -48,7 +48,7 @@ nav ul li a {
   border-radius: 100px;
   padding: 8px 15px;
 }
-/*  */
+
 h3 {
   color: var(--font-color-main);
   text-align: center;
@@ -89,7 +89,7 @@ h3 {
 .search input::placeholder {
   color: var(--font-color-main);
 }
-/*  */
+
 .error-message {
   display: none;
 }
@@ -103,7 +103,7 @@ h3 {
   text-align: center;
   padding: 40px;
 }
-/*  */
+
 .message {
   display: block;
 }
@@ -117,7 +117,7 @@ h3 {
   text-align: center;
   padding: 50px;
 }
-/*  */
+
 .return {
   display: none;
 }
@@ -164,7 +164,7 @@ h3 {
 .weather-icon img {
   width: 100%;
 }
-/*  */
+
 .weather-desc {
   display: flex;
   justify-content: center;
@@ -192,7 +192,7 @@ h3 {
     margin: 50px auto;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.494);
-    margin-bottom: 120px; /* Add space for fixed nav */
+    margin-bottom: 120px; 
   }
   nav {
     border-radius: 20px;
